@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: d.kaltdorf
- * Date: 05.12.18
- * Time: 10:13
- */
+
 
 class Application
 {
